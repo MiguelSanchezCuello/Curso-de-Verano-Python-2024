@@ -27,7 +27,6 @@ while eleccion != 6:
         print("Gracias por usar el calculadora")
     elif eleccion == 6:
         print("Gracias por usar el calculadora")
-        exit
     else:
         print("Eleccion incorrecta")
 
